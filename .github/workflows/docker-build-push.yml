@@ -18,7 +18,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v5
         with:
-          images: ${{ secrets.DOCKER_USERNAME }}/practica-final-devops
+          images: ${{ vars.DOCKER_USERNAME }}/practica-final-devops
           tags: |
             type=sha
             type=ref,event=branch
