@@ -1,6 +1,6 @@
 # Practica final de DevOps
 Está es la práctica final DevOps
-## Nota
-|NOTA|
+## Notas
+|NOTA FINAL|
 |----|
 |10|
