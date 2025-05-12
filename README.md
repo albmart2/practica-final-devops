@@ -1,3 +1,6 @@
-<header>
 # Practica final de DevOps
-</header>
+Está es la práctica final DevOps
+## Nota
+|NOTA|
+|----|
+|10|
